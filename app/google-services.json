@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "912056869382",
+    "firebase_url": "https://groceryshop-832fc-default-rtdb.firebaseio.com",
+    "project_id": "groceryshop-832fc",
+    "storage_bucket": "groceryshop-832fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912056869382:android:7a92f6425f3aee23889987",
+        "android_client_info": {
+          "package_name": "com.codewithsk.goadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912056869382-0shgg8uujiokkor2b4m3pg2d311kkog3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEKcvm-lawj7sc8k9oQBe116PU-fkGW0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912056869382-0shgg8uujiokkor2b4m3pg2d311kkog3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912056869382:android:cdbcdc177e729ec2889987",
+        "android_client_info": {
+          "package_name": "com.codewithsk.gogrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912056869382-0shgg8uujiokkor2b4m3pg2d311kkog3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEKcvm-lawj7sc8k9oQBe116PU-fkGW0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912056869382-0shgg8uujiokkor2b4m3pg2d311kkog3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912056869382:android:def0341004fbce7b889987",
+        "android_client_info": {
+          "package_name": "com.codewithsk.groceryshope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912056869382-0shgg8uujiokkor2b4m3pg2d311kkog3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEKcvm-lawj7sc8k9oQBe116PU-fkGW0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912056869382-0shgg8uujiokkor2b4m3pg2d311kkog3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
